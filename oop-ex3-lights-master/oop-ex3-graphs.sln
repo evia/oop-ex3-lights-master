@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "oop-ex3-graphs", "oop-ex3-graphs\oop-ex3-graphs.vcxproj", "{16509CD4-1CD3-4A05-9046-5021E13DD78B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16509CD4-1CD3-4A05-9046-5021E13DD78B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{16509CD4-1CD3-4A05-9046-5021E13DD78B}.Debug|Win32.Build.0 = Debug|Win32
+		{16509CD4-1CD3-4A05-9046-5021E13DD78B}.Release|Win32.ActiveCfg = Release|Win32
+		{16509CD4-1CD3-4A05-9046-5021E13DD78B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
